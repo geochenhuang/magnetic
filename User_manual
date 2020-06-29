@@ -50,13 +50,8 @@ test/pipeline/plot_contour.m and test/pipeline/xyz2XYZ.m ---two matlab files to
 5.2 element file
     the number of elements
     each line is element id, id of 4 nodes(id is defined in node file), magnetization vector M(Mx,My,Mz)
-    
-6. format for output file. Please see the main body of the article (section Implementation) 
 
-Zhengyong Ren
-Central south university, changsha, China
-renzhengyong@csu.edu.cn
-2017-02-26
-
-These files may be found in:
-http://software.seg.org/2017/0006
+Zhengyong Ren and Huang Chen
+Central south university, Changsha, China
+renzhengyong@csu.edu.cn, csuchenhuang@csu.edu.cn
+2018-11-20
